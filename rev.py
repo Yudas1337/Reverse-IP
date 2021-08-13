@@ -23,7 +23,7 @@ class Exorcism1337:
     required_version = (3, 0)
     red = "\033[1;31;40m"
     green = "\033[1;32;40m"
-    api_key = "0d6d2f47c241658932516f42b04c6948430d98b7"
+    api_key = "YOUR_API_KEY"
     api_viewdns = "https://api.viewdns.info/reverseip/"
     api_hackertarget = "https://api.hackertarget.com/reverseiplookup/?q="
     usage = "Usage: python3 mager.py -l list.txt"
